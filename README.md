@@ -18,4 +18,4 @@
 | ✅ | Project | Drum Machine | [Project](https://urjj2.codesandbox.io/) / [Code](https://codesandbox.io/s/drumkit-urjj2)
 | ✅ | Course | Tyler McGinnis: React Beta | [Course](https://tylermcginnis.com/courses/)
 | 🚧 | Project | Pomodoro Timer | [Project]()
-| 🚧 | Course | Level Up Tuts: Better JavaScript | [Course](https://www.leveluptutorials.com/tutorials/better-javascript)
+| ✅ | Course | Level Up Tuts: Better JavaScript | [Course](https://www.leveluptutorials.com/tutorials/better-javascript)
