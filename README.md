@@ -2,8 +2,8 @@
 
 ## 2019 Progress
 
-* **Courses Completed:** 03
-* **Projects Completed**: 05
+- **Courses Completed:** 03
+- **Projects Completed**: 06
 
 | Status | Activity | Description | Links |    
 |---|---|---|---|
@@ -19,3 +19,5 @@
 | ✅ | Course | Tyler McGinnis: React Beta | [Course](https://tylermcginnis.com/courses/)
 | ✅ | Project | Pomodoro Timer | [Project](https://srd-pomodoro-timer.netlify.com/) / [Code](https://github.com/sheriallis/pomodoro-timer)
 | ✅ | Course | Level Up Tuts: Better JavaScript | [Course](https://www.leveluptutorials.com/tutorials/better-javascript)
+| ✅ | Project | React Calculator | [Project](https://srd-react-calculator.netlify.com/) / [Code](https://github.com/sheriallis/react-calculator)
+| ✅ | Certification | Front End Libraries Certification | [FCC Certificate](https://www.freecodecamp.org/certification/sheriallis/front-end-libraries)
