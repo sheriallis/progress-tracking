@@ -3,7 +3,7 @@
 ## 2019 Progress
 
 - **Courses Completed:** 03
-- **Projects Completed**: 06
+- **Projects Completed**: 07
 
 | Status | Activity | Description | Links |    
 |---|---|---|---|
@@ -21,4 +21,4 @@
 | ✅ | Course | Level Up Tuts: Better JavaScript | [Course](https://www.leveluptutorials.com/tutorials/better-javascript)
 | ✅ | Project | React Calculator | [Project](https://srd-react-calculator.netlify.com/) / [Code](https://github.com/sheriallis/react-calculator)
 | ✅ | Certification | Front End Libraries Certification | [FCC Certificate](https://www.freecodecamp.org/certification/sheriallis/front-end-libraries)
-| 🚧 | Project | Fylo Landing Page Dark | [Project](https://srd-fylo-landing-page-dark.netlify.com/) / [Code](https://github.com/sheriallis/fylo-landing-page-dark)
+| ✅ | Project | Fylo Landing Page Dark | [Project](https://srd-fylo-landing-page-dark.netlify.com/) / [Code](https://github.com/sheriallis/fylo-landing-page-dark)
