@@ -3,7 +3,7 @@
 ## 2019 Progress
 
 - **Courses Completed:** 03
-- **Projects Completed**: 07
+- **Projects Completed**: 08
 
 | Status | Activity | Description | Links |    
 |---|---|---|---|
@@ -22,4 +22,4 @@
 | ✅ | Project | React Calculator | [Project](https://srd-react-calculator.netlify.com/) / [Code](https://github.com/sheriallis/react-calculator)
 | ✅ | Certification | Front End Libraries Certification | [FCC Certificate](https://www.freecodecamp.org/certification/sheriallis/front-end-libraries)
 | ✅ | Project | Fylo Landing Page Dark | [Project](https://srd-fylo-landing-page-dark.netlify.com/) / [Code](https://github.com/sheriallis/fylo-landing-page-dark)
-| 🚧 | Project | Clipboard Landing Page | [Project](https://srd-clipboard-landing-page.netlify.com/) / [Code](https://github.com/sheriallis/clipboard-landing-page)
+| ✅ | Project | Clipboard Landing Page | [Project](https://srd-clipboard-landing-page.netlify.com/) / [Code](https://github.com/sheriallis/clipboard-landing-page)
