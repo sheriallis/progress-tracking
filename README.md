@@ -23,4 +23,4 @@
 | ✅ | Certification | Front End Libraries Certification | [FCC Certificate](https://www.freecodecamp.org/certification/sheriallis/front-end-libraries)
 | ✅ | Project | Fylo Landing Page Dark | [Project](https://srd-fylo-landing-page-dark.netlify.com/) / [Code](https://github.com/sheriallis/fylo-landing-page-dark)
 | ✅ | Project | Clipboard Landing Page | [Project](https://srd-clipboard-landing-page.netlify.com/) / [Code](https://github.com/sheriallis/clipboard-landing-page)
-| 🚧 | Project | Bookmark Landing Page | [Project](https://srd-bookmark-landing-page.netlify.com/) / [Code](https://github.com/sheriallis/bookmark-landing-page)
+| ✅ | Project | Bookmark Landing Page | [Project](https://srd-bookmark-landing-page.netlify.com/) / [Code](https://github.com/sheriallis/bookmark-landing-page)
