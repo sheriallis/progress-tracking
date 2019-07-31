@@ -3,7 +3,7 @@
 ## 2019 Progress
 
 - **Courses Completed:** 03
-- **Projects Completed**: 08
+- **Projects Completed**: 09
 
 | Status | Activity | Description | Links |    
 |---|---|---|---|
