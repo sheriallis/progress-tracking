@@ -24,3 +24,4 @@
 | ✅ | Project | Fylo Landing Page Dark | [Project](https://srd-fylo-landing-page-dark.netlify.com/) / [Code](https://github.com/sheriallis/fylo-landing-page-dark)
 | ✅ | Project | Clipboard Landing Page | [Project](https://srd-clipboard-landing-page.netlify.com/) / [Code](https://github.com/sheriallis/clipboard-landing-page)
 | ✅ | Project | Bookmark Landing Page | [Project](https://srd-bookmark-landing-page.netlify.com/) / [Code](https://github.com/sheriallis/bookmark-landing-page)
+| ✅ | Project | REST Countries API | [Project](https://srd-rest-countries-api.netlify.com/) / [Code](https://github.com/sheriallis/rest-countries-api)
