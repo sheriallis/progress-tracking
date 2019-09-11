@@ -25,3 +25,4 @@
 | ✅ | Project | Clipboard Landing Page | [Project](https://srd-clipboard-landing-page.netlify.com/) / [Code](https://github.com/sheriallis/clipboard-landing-page)
 | ✅ | Project | Bookmark Landing Page | [Project](https://srd-bookmark-landing-page.netlify.com/) / [Code](https://github.com/sheriallis/bookmark-landing-page)
 | ✅ | Project | REST Countries API | [Project](https://srd-whereintheworld.netlify.com/) / [Code](https://github.com/sheriallis/where-in-the-world)
+| ✅ | Project | Personal Portfolio v2 | [Project](https://sheri.dev) / [Code](https://github.com/sheriallis/portfolio)
