@@ -12,3 +12,4 @@
 | ✅     | 01/30 | Coding Challenge | Completed six 8 kyu katas on Code Wars | [Katas](https://www.codewars.com/users/shrdn/completed_solutions) |
 | ✅     | 02/12 | Project | Where in the World | [Project](https://srd-whereintheworld.netlify.com/) / [Code](https://github.com/sheriallis/where-in-the-world)
 | ✅     | 02/12 | Project | Request Header Parser Microservice | [Project](https://sr-request-header-parser.glitch.me) / [Code](https://github.com/sheriallis/request-header-microservice)
+| ✅     | 02/13 | Project | File Metadata Microservice | [Project](https://sr-filemetadata.glitch.me) / [Code](https://github.com/sheriallis/file-metadata-microservice)
