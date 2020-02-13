@@ -1,7 +1,7 @@
 # 2020 - Progress Tracking
 
 - **Courses completed:** 00
-- **Projects completed:** 02
+- **Projects completed:** 03
 
 
 
