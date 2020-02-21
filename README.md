@@ -3,8 +3,6 @@
 - **Courses completed:** 00
 - **Projects completed:** 05
 
-
-
 | Status | Completed | Activity | Description                                      | Related Links            |
 | ------ | -------- |-------- | ------------------------------------------------ | ------------------------ |
 | 🚧     | - | Tutorial | JavaScript.info - The Modern JavaScript Tutorial | [Tutorial](https://javascript.info/) |
