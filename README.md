@@ -1,7 +1,7 @@
 # 2020 - Progress Tracking
 
 - **Courses completed:** 00
-- **Projects completed:** 02
+- **Projects completed:** 05
 
 
 
@@ -13,3 +13,5 @@
 | ✅     | 02/12 | Project | Where in the World | [Project](https://srd-whereintheworld.netlify.com/) / [Code](https://github.com/sheriallis/where-in-the-world)
 | ✅     | 02/12 | Project | Request Header Parser Microservice | [Project](https://sr-request-header-parser.glitch.me) / [Code](https://github.com/sheriallis/request-header-microservice)
 | ✅     | 02/13 | Project | File Metadata Microservice | [Project](https://sr-filemetadata.glitch.me) / [Code](https://github.com/sheriallis/file-metadata-microservice)
+| ✅    | 02/21  | Project | File Transfer pricing component | [Project](https://sheriallis.github.io/frontendmentor/pricing-component-with-toggle/) / [Code](https://github.com/sheriallis/frontendmentor/tree/master/pricing-component-with-toggle)
+| ✅    | 02/21   | Project | Single Price Grid Component    | [Project](https://sheriallis.github.io/frontendmentor/single-price-grid-component/) / [Code](https://github.com/sheriallis/frontendmentor/tree/master/single-price-grid-component)
